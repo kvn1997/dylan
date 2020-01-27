@@ -1,5 +1,9 @@
-
 .contenedor-header {
     background-image: url(../img/header.jpg);
     background-size: cover;
+}
+
+.symbol {
+    font-size: 5px;
+    align-items: center;
 }
